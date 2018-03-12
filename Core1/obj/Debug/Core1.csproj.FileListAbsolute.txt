@@ -1,0 +1,13 @@
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\bin\Debug\Core1.dll.config
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\bin\Debug\Core1.dll
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\bin\Debug\Core1.pdb
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\bin\Debug\EntityFramework.dll
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\bin\Debug\EntityFramework.xml
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\obj\Debug\Core1.csprojResolveAssemblyReference.cache
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\obj\Debug\Core1.csproj.CoreCompileInputs.cache
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\obj\Debug\Core1.csproj.CopyComplete
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\obj\Debug\Core1.dll
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\Core1\obj\Debug\Core1.pdb

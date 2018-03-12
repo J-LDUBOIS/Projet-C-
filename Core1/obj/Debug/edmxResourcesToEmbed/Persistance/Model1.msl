@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SampleDatabaseModelStoreContainer" CdmEntityContainer="SampleDatabaseEntities">
+    <EntitySetMapping Name="Capteurs">
+      <EntityTypeMapping TypeName="SampleDatabaseModel.Capteurs">
+        <MappingFragment StoreEntitySet="Capteurs">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom_capteur" ColumnName="nom_capteur" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Datas">
+      <EntityTypeMapping TypeName="SampleDatabaseModel.Datas">
+        <MappingFragment StoreEntitySet="Datas">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="temperature" ColumnName="temperature" />
+          <ScalarProperty Name="humidite" ColumnName="humidite" />
+          <ScalarProperty Name="id_capteur" ColumnName="id_capteur" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

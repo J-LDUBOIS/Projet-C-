@@ -1,0 +1,43 @@
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\alexi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\danib\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\danib\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\danib\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danib\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\danib\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danib\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danib\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Core1.dll
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Core1.pdb
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Core1.dll.config
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JL DUBS\Dropbox\C# Project - Groupe 3\2_Developpement\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
